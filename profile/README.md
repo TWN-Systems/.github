@@ -26,4 +26,4 @@ We are based in Launceston and work with organisations across Australia.
 
 This organisation holds public tools and open-source projects we contribute to or adapt. Each repository explains what it does and identifies its licence and upstream project where applicable.
 
-Our wider group includes [Tasmanian Cloud](https://tasmanian.cloud/) for local hosting and [Ptyktos](https://github.com/Ptyktos) for software that makes information easier to use.
+Our wider group includes [Tasmanian Cloud](https://tasmanian.cloud/) for local hosting, and our own open-source projects for software that makes information easier to use.
